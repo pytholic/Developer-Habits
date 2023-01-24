@@ -29,3 +29,5 @@
 * Check **Pros** and **Cons** of libraries before using them.
   * Check users and stars
   * Check community support
+
+* Always check documentations
