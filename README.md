@@ -35,3 +35,9 @@
 * In python, use built-in `pprint` module to print complex data structures in CLI
 
 * Create `gists` of useful snippets
+
+* Remember OOP pillars
+ * Abstraction
+ * Encapsulation
+ * Inheritance
+ * Polymorphism
