@@ -37,7 +37,7 @@
 * Create `gists` of useful snippets
 
 * Remember OOP pillars
- * Abstraction
- * Encapsulation
- * Inheritance
- * Polymorphism
+  * Abstraction
+  * Encapsulation
+  * Inheritance
+  * Polymorphism
